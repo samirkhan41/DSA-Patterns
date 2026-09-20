@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+a.out
+*.out
 
 # Compiled Object files
 *.slo
